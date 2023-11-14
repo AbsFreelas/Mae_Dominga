@@ -1,0 +1,12 @@
+[
+  {
+    "logradouro": "Rua ABC",
+    "numero": 123,
+    "tipo": "Casa"
+  },
+  {
+    "logradouro": "Avenida XYZ",
+    "numero": 456,
+    "tipo": "Apartamento"
+  }
+]
